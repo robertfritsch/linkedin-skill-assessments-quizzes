@@ -344,3 +344,10 @@
 - [ ] hours
 - [ ] days
 - [x] quarters
+
+#### Q46. You would like to import a CSV file into a Microsoft Project file. Project displays a message about opening a file in an older format. How can you open this file?
+
+- [ ] Use the Microsoft Project Trust Center.
+- [x] Use the tab in the Project Options dialog box.
+- [ ] 
+- [ ] 
